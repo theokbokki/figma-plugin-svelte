@@ -14,5 +14,5 @@ You can do `pnpm dev` to watch for changes and bundle the project every time or 
 
 To use the plugin in figma, open the app and register a new plugin using the option "import plugin from manifest".
 
-Once this is done, you should be able to use the plugin by doing:
-right clik a figma file -> plugins -> development -> your-plugin
+Once this is done, you should be able to use the plugin by doing:  
+right clik in a figma file > plugins > development > your-plugin
