@@ -1,0 +1,17 @@
+{
+	"name": "your-plugin-name",
+	"id": "1253459057133842862",
+	"api": "1.0.0",
+	"main": "dist/code.js",
+	"ui": "dist/ui.html",
+	"capabilities": [],
+	"enableProposedApi": false,
+	"editorType": [
+		"figma"
+	],
+	"networkAccess": {
+		"allowedDomains": [
+			"none"
+		]
+	}
+}
